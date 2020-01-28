@@ -7,11 +7,11 @@ layout: page
 description: Internal page to remind collaborators how to contribute and report it in the website.
 ---
 
-### Dear friend! If you did something for tracking.exposed: great! Sadly, the effort isn’t concluded until your action is adequately reported in the list of ‘analysis-and-publication’! is our piece of HTML documenting all the project’s success, and you should be there too. It doesn’t matter if only a 15 person attendee or if everyone was distracted. We should memorize each advocacy effort. Even an apparently meaningless event, after six months, take a different meaning. So please,  for future references, and to better focus our energies in the future, record your contribution!
+### Dear friend! If you did something for tracking.exposed: great! Sadly, the effort isn’t concluded until your contribution is adequately reported in the ‘analysis-and-publication’ list! It is our piece of HTML documenting all the project’s developments, and yours should be there too. It doesn’t matter if a handful of persons attended your event or if everyone was distracted. We should keep track of each advocacy effort. Even an apparently meaningless event, after six months, could acquire a different meaning. So please, for future references, and to better focus our energies in the future, record your contribution!
 
-**You've to edit** (or propose a pull request) to [this file on github](https://raw.githubusercontent.com/tracking-exposed/facebook.tracking.exposed/master/content/analysis-and-publications.md), which [become like a list of events](https://facebook.tracking.exposed/analysis-and-publications/) in the end.
+**You've to edit** (or propose a pull request) to [this file on github](https://raw.githubusercontent.com/tracking-exposed/facebook.tracking.exposed/master/content/analysis-and-publications.md), which [becomes like a list of events](https://facebook.tracking.exposed/analysis-and-publications/) in the end.
 
-As you can see, each entry has this format:
+Each entry has this format:
 
 ```
 resource
@@ -25,13 +25,13 @@ resource
   href="https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/#spendenleiste"
 ```
 
-You don't need to put every line. for example, author and authorLink shouldn't happen often, they are meant for person OUTSIDE of the project. The speaker/project member, should go in the description.
+You don't need to insert every line. For example, `author` and `authorLink` shouldn't appear often, they are meant for persons OUTSIDE of the project. Additionally, the speaker/project member, should go in the description.
 
 ### How many entry you should provide?
 
-* Each advocacy moment needs a a dedicated entry. For example, in the winter school, the final report and the final presentation should be separated entries.
-* In a conference, event + talk are all the same. In general, there is only one content link per entry.
+* Each advocacy moment needs a dedicated entry. For example, in the DMI Winter School, the final report and the final presentation should be counted as separated entries.
+* In a conference, event, and talk they are all the same. In general, there should be only one content link per entry.
 
-### Should I append my thing even if wasn't facebook related?
+### Should I append my thing even if wasn't Facebook related?
 
-Yes, we'll have a collection of articles/publication/links for each project, and the tracking.exposed will have all of them. Please don't forget to add your contributions!
+Yes, we'll have a collection of articles/publications/links for each project, and the tracking.exposed will have all of them. Please don't forget to add your contributions!
